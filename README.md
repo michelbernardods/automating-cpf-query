@@ -38,7 +38,7 @@ npm start
 
 ### 💻 Preview
 
-h1 align="center">
+<h1 align="center">
     <img alt="Be The Hero" src="https://github.com/michelbernardods/automating-cpf-query/blob/master/photo1.PNG"  />
     <img alt="Be The Hero" src="https://github.com/michelbernardods/automating-cpf-query/blob/master/photo2.PNG"  />
 </h1>
