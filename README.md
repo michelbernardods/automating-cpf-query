@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   Automating cpf of query
+   Automating CPF of query
 </h1>
 
 
