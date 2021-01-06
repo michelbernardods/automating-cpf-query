@@ -14,17 +14,17 @@
 </h3>
 
 
-## 💻 Projeto
+## 💻 Project
 
-Criei um simples automatizador de CPF.
+I created a simple CPF automator.
 
-Sites usados:
+Sites used:
 
-Para gerar os CPFs - www.4devs.com.br  -
+To generate the CPFs - www.4devs.com.br  -
 
-Para validar os CPFs - www.situacao-cadastral.com
+To validate the CPFs - www.situacao-cadastral.com
 
-# Instalação
+# Installation
 
 #### Project setup
 ```
