@@ -9,11 +9,6 @@
 </h4>
 
 
-<h3 align="center">
-  #javascript #es6 #apirest #vuejs #vuetify #postgresql #nodejs #npm #eslint #axios 
-</h3>
-
-
 ## 💻 Project
 
 I created a simple CPF automator.
